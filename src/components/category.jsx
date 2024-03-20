@@ -3,7 +3,7 @@ function Categories() {
         <>
         <section className="category-section">
             <div className="section-title mb-4">
-                <h1 className="fw-bold">Categories :</h1>
+                <h1 className="fw-bold">Kategori :</h1>
 			</div>
 
 			<div className="row align-items-center">
