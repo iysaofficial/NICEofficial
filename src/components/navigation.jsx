@@ -29,7 +29,7 @@ function Navigation() {
 								</a>
 							</div>
 						</li> */}
-						<li class="nav-item"><a class="nav-link" href="https://drive.google.com/file/d/1Hdh2_LSGpUt8rqywdclM3OAeoBP1aUGL/view?usp=sharing"target="_blank" >Buku Panduan</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://drive.google.com/file/d/1P8V0wBCkOOfHFnbs28K_COSaAR2emIf3/view?usp=sharing"target="_blank" >Buku Panduan</a></li>
 						
 						<li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
 						<li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
