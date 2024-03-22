@@ -403,9 +403,9 @@ a, p{
   color: var(--warna-tulisan);
 }
 
-.mainhero-section .wrapper .text a{
-  text-align: justify;
-  font-size: clamp(10px, 4vw, 16px);
+.mainhero-section .wrapper .text{
+  text-align: justify !important;
+  font-size: clamp(10px, 4vw, 14px);
 }
 
   /*------------------------------------------------------------------

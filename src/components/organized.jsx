@@ -9,9 +9,9 @@ function Organized() {
                         <a href="#"><img src="assets/logo/Iysa.png" alt="" class=" img-fluid" /></a>
                         {/* style="width:180px !important; "*/}
                     </div>
-                    {/* <div class="wow fadeInUp">
+                    <div class="wow fadeInUp">
                         <a href="#"><img src="assets/logo/mahsa.png" alt="" class=" img-fluid" /></a>
-                    </div> */}
+                    </div>
                 </div>
                 {/* <h1 class="mt-5 mb-2">Didukung oleh :</h1>
                 <div class="row logos2">
