@@ -7,6 +7,8 @@ import About from "../components/about";
 import Categories from "../components/category";
 import Organized from "../components/organized";
 
+import Timevenue from "../components/timevenue";
+
 function Home() {
     return (
         <>
@@ -14,6 +16,7 @@ function Home() {
         <Mainhero />
         <About />
         <Categories />
+        <Timevenue />
         <Organized />
         <Footer />
     </>
