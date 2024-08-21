@@ -11,7 +11,7 @@ function Mainhero() {
                         </a>
                     </div>
                     <div className="text-center">
-                        <a href="https://registrasi-nice-2024.vercel.app/" target="_blank" className="btn-action btn">Klik disini untuk mendaftar!!</a>
+                        <a href="/" className="btn-action btn">Tutup Pendaftaran</a>
                     </div>
                 </div>
             </div>
