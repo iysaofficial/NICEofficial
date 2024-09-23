@@ -33,6 +33,7 @@ function Navigation() {
 						
 						<li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
 						<li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://drive.google.com/drive/folders/1n5WaS2mW_U-LJt1Zab2pTT0FDndvidm2?usp=drive_link" target="_blank">Sertifikat Supervisor</a></li>
 					</ul>
 					 {/* <a class="btn btn-outline-warning " href="https://docs.google.com/forms/d/e/1FAIpQLSfkCq7u5n6claDsm20GSGqoUYBx9dY5rrA6ZQjjqNrNoUB_uw/viewform?usp=share_link">Registration</a> */}
 				</div>
