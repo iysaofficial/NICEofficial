@@ -11,7 +11,7 @@ function Mainhero() {
                         </a>
                     </div>
                     <div className="text-center">
-                        <a href="/" className="btn-action btn">Tutup Pendaftaran</a>
+                        <a href="/" className="btn-action btn">Segera Hadir 2025</a>
                     </div>
                 </div>
             </div>
