@@ -29,23 +29,31 @@ function Navigation() {
                   Beranda
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#about">
-                  Tentang
-                </a>
+              <li class="nav-item dropdown ">
+                <a class="nav-link">Daftar Pemenang</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                  <a
+                    class="dropdown-item"
+                    href="https://drive.google.com/file/d/1SBXqoXm1TmCsnC63n6dIJmgM-W5iaTlw/view?usp=sharing"
+                    target="_blank"
+                  >
+                    Daftar Pemenang 2024
+                  </a>
+                </div>
               </li>
-              {/* <li class="nav-item dropdown ">
-							<a class="nav-link">
-								Kurasi
-							</a>
-							<div class="dropdown-menu" aria-labelledby="dropdown-a">
-								<a class="dropdown-item" href="https://drive.google.com/drive/folders/1ZUKHCCgbXoPUXEMEuR9nz2lkr_B1q7RH?usp=sharing"
-								target="_blank">
-								Kurasi 2023
-								</a>
-							</div>
-						</li> */}
-              <li class="nav-item">
+              <li class="nav-item dropdown ">
+                <a class="nav-link">Liputan Media</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                  <a
+                    class="dropdown-item"
+                    href="https://drive.google.com/file/d/1UZ8n0x2lA3dGSrfr7guIu-IDv0xwkXD-/view?usp=sharing"
+                    target="_blank"
+                  >
+                    Press Release 2024
+                  </a>
+                </div>
+              </li>
+              {/* <li class="nav-item">
                 <a
                   class="nav-link"
                   href="https://drive.google.com/file/d/1P8V0wBCkOOfHFnbs28K_COSaAR2emIf3/view?usp=sharing"
@@ -53,17 +61,7 @@ function Navigation() {
                 >
                   Buku Panduan
                 </a>
-              </li>
-
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  target="_blank"
-                  href="https://drive.google.com/file/d/1SBXqoXm1TmCsnC63n6dIJmgM-W5iaTlw/view?usp=sharing"
-                >
-                  List Of Winner
-                </a>
-              </li>
+              </li> */}
               <li class="nav-item">
                 <a class="nav-link" href="/contact">
                   Kontak
@@ -74,23 +72,17 @@ function Navigation() {
                   FAQ
                 </a>
               </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="https://drive.google.com/drive/folders/1n5WaS2mW_U-LJt1Zab2pTT0FDndvidm2?usp=drive_link"
-                  target="_blank"
-                >
-                  Sertifikat Supervisor
-                </a>
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="https://drive.google.com/file/d/1UZ8n0x2lA3dGSrfr7guIu-IDv0xwkXD-/view?usp=sharing"
-                  target="_blank"
-                >
-                  Press Release
-                </a>
+              <li class="nav-item dropdown ">
+                <a class="nav-link">Sertifikat Supervisor</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                  <a
+                    class="dropdown-item"
+                    href="https://drive.google.com/drive/folders/1n5WaS2mW_U-LJt1Zab2pTT0FDndvidm2?usp=drive_link"
+                    target="_blank"
+                  >
+                    Sertifikat Supervisor 2024
+                  </a>
+                </div>
               </li>
             </ul>
             {/* <a class="btn btn-outline-warning " href="https://docs.google.com/forms/d/e/1FAIpQLSfkCq7u5n6claDsm20GSGqoUYBx9dY5rrA6ZQjjqNrNoUB_uw/viewform?usp=share_link">Registration</a> */}
