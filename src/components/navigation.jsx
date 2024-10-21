@@ -53,6 +53,11 @@ function Navigation() {
                   </a>
                 </div>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://drive.google.com/drive/u/0/folders/176LZXRV0Cqj1WY5M4BLnvVxReywVm6Uh">
+                  Kurasi
+                </a>
+              </li>
               {/* <li class="nav-item">
                 <a
                   class="nav-link"
